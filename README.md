@@ -336,10 +336,5 @@ Change pin assignments:
 - [ ] Battery operation with low-power modes
 - [ ] Weather forecast integration
 
----
-
-**⭐ Star this repo if you find it helpful!**
-
-Made with ❤️ for the maker community
 
 </div>
